@@ -2,9 +2,7 @@ Wiki-sh
 =======
 This is a Shell Wikipedia Fetcher. It fetches the introductory extract of the QUERY article in the argument, for you to see quickly in your shell.
  
-![It looks like this!][logo]
-
-[logo]: http://i.imgur.com/4kxvm9C.png "It looks like this"
+![alt text](http://i.imgur.com/4kxvm9C.png "It looks like this!")
 
 ##Requirements
 Wiki-sh uses jq to quickly parse JSON. You can download the binary and see the documentation [here](http://stedolan.github.io/jq/).
