@@ -46,3 +46,5 @@ wiki() { wiki.sh $1 $2 }
 - [ ] Dealing successfully with redirects
 - [ ] Option for fetching in other languages
 - [ ] Add link to the article at the end of the extract
+
+Any feedback or suggestion is greatly appreciated!
