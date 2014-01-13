@@ -60,6 +60,6 @@ wiki() { wiki.sh $1 $2 }
 - [ ] Dealing successfully with redirects
 - [ ] Option for fetching in other languages
 - [ ] Add link to the article at the end of the extract
-- [X] Quote characters rendered correctly
+- [x] Quote characters rendered correctly
 
 Any feedback or suggestion is greatly appreciated!
