@@ -54,7 +54,7 @@ wiki() { wiki.sh $1 $2 }
 ```
 ##Bugs
 * ~~Arguments with more than two words not getting correctly formatted~~
-
+* ~~Correct output if query is not found~~
 ##To do
 
 - [ ] Dealing successfully with redirects
