@@ -9,7 +9,8 @@ else
   if [[ $data = "null" ]]; then
     echo "Nothing to fetch. Check your arguments (write it wrong maybe?)."
   else
-    url="https://en.wikipedia.org/wiki/"$var
-    echo -e ${data:1:${#data}-2}"\nSee more on "$url" (Ctrl+click)"
+    url=https://en.wikipedia.org/wiki/$var
+    echo -e ${data:1:${#data}-2}"\n"
+    echo "See more on "$url
   fi
 fi
